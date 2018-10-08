@@ -38,7 +38,7 @@
     "Johanna",
     "Alvaro Viebrantz"
   ],
-  "private": true,
+  "private": false,
   "keywords": [
     "web security",
     "web application security",
