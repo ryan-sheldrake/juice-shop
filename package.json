@@ -89,7 +89,7 @@
     "morgan": "~1.9",
     "multer": "~1.3",
     "notevil": "~1.1",
-    "pdfkit": "~0.8",
+    "pdfkit": "~0.11",
     "replace": "~1.0.0",
     "request": "~2.88.0",
     "sanitize-html": "1.4.2",
